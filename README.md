@@ -8,3 +8,5 @@ Notion is a powerful online database tool with nearly infinite flexibility.
 - ViteJS: https://vitejs.dev  
 - Doodle Images: https://doodleipsum.com
 - Open Props: https://open-props.style/
+- Netlify: app.netlify.com
+- Notion: https://notion.so/
